@@ -1,4 +1,7 @@
-﻿using System;
+﻿/* Form1.cs
+ * Author: Li Wang
+ */
+ using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
